@@ -1,7 +1,11 @@
-import Testimonials from "./Testimonials";
+import Testimonials from './Testimonials';
 
 function App() {
-  return <Testimonials />;
+  return (
+    <>
+      <Testimonials />
+    </>
+  );
 }
 
 export default App;
