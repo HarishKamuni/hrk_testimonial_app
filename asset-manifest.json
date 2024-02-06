@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hrk_testimonial_app/static/css/main.175a1824.css",
-    "main.js": "/hrk_testimonial_app/static/js/main.346fc182.js",
+    "main.css": "/hrk_testimonial_app/static/css/main.3d2b7c96.css",
+    "main.js": "/hrk_testimonial_app/static/js/main.8585afc5.js",
     "index.html": "/hrk_testimonial_app/index.html",
-    "main.175a1824.css.map": "/hrk_testimonial_app/static/css/main.175a1824.css.map",
-    "main.346fc182.js.map": "/hrk_testimonial_app/static/js/main.346fc182.js.map"
+    "main.3d2b7c96.css.map": "/hrk_testimonial_app/static/css/main.3d2b7c96.css.map",
+    "main.8585afc5.js.map": "/hrk_testimonial_app/static/js/main.8585afc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.175a1824.css",
-    "static/js/main.346fc182.js"
+    "static/css/main.3d2b7c96.css",
+    "static/js/main.8585afc5.js"
   ]
 }
